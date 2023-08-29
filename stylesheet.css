@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+
+body{
+    background-image: linear-gradient( to right,rgb(249, 37, 178), rgb(80, 5, 101));
+}
+
+
+.one {
+    width: 800px;
+    padding: 150px;
+    padding-top: 2px;
+    margin: auto;
+    margin-top: 150px;
+    height: 300px;
+    background-image: linear-gradient( to right, rgb(221, 57, 36), rgb(51, 51, 190));
+
+
+  }
+
+  form {
+    display: block;
+    width: 250px;
+    padding: 100px;
+    margin: auto;
+    margin-top: 48px;
+    height: 200px;
+background-color: black;
+color: white;
+text-align: center;
+
+}
+
+  .pone{
+font-size: 20px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+padding: 0px;
+  }
+
+  a{
+    color: white;
+  }
+  input{
+    background-color: black;
+    color: white;
+    border-radius: 70px;
+    border-color: rgb(53, 102, 236);
+    text-align: center;
+  }
